@@ -1,0 +1,5 @@
+wp-content/debug.log
+wp-content/w3tc-config
+wp-content/w3tc-config/*
+wp-content/cache
+wp-content/cache/*
